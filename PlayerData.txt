@@ -1,0 +1,2 @@
+life=100
+hunger=75
